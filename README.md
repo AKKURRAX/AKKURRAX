@@ -2,7 +2,7 @@
 
 ## Qui suis-je ?
 
- Salut moi c'est AKKURRA j'ai 14 ans je suis développeur javascript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png">
+ Salut moi c'est AKKURRA j'ai 14 ans je suis développeur javascript.
 
 ## Technologie 📕
 
