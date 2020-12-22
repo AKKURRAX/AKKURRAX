@@ -2,7 +2,7 @@
 
 ## Qui suis-je ?
 
- Salut moi c'est AKKURRA j'ai 14 ans je suis développeur javascript je code plein de petits truc sympa donc n'hésite pas a me suivre !
+i'm AKKURRA, french developer
 
 ## Technologie 📕
 
