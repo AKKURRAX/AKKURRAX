@@ -11,7 +11,8 @@
 [discord.bio](https://dsc.bio/6615)  
 
 
-## Stats 📈    <img src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&show_icons=true&hide_border=true">
+## Stats 📈   
+<img src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&show_icons=true&hide_border=true">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AKKURRAX&show_icons=true&theme=tokyonight&layout=compact">    
 
 
