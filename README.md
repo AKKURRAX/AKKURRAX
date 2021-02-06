@@ -14,7 +14,7 @@
 ## Stats 📈   
 <img src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&show_icons=true&hide_border=true">
 
-##Most used language 📋
+## Most used language 📋
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AKKURRAX&show_icons=true&theme=tokyonight&layout=compact">    
 
 
