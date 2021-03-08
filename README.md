@@ -10,6 +10,12 @@
 ## Link 📎
 [discord.bio](https://dsc.bio/6615)    
 
+## Nombre de visite sur le github 📌
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AKKURRAX/count.svg" />
+</p>
+
 
 ## Stats 📈   
 <img src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&show_icons=true&hide_border=true">
