@@ -4,7 +4,7 @@
 # AKKURRA 📒
 
 
-**Hello, it's AKKURRA a young French developer who aims to revolutionize the world with new technologies. I have always believed in myself and as I say and I would always say sky its not the limit.**
+Hey my name is AKKURRA, I'm a young french developper I code mainly in **JS**, **PHP** and **HTML/CSS**. On this github page I share with you the code of all my recent or old projects to show you how I design them.
 
 ## Technologie 🧬
 
