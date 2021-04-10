@@ -23,7 +23,7 @@
 
 
 ## Stats 📈   
-<img src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&show_icons=true&theme=radical">
 
  <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif">
 
