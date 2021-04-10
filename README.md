@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif">
 
 
-# AKKURRA 📒
+# AKKURRAX 🎮
 
 
 Hey my name is AKKURRA, I'm a young french developper I code mainly in **JS**, **PHP** and **HTML/CSS**. On this github page I share with you the code of all my recent or old projects to show you how I design them.
