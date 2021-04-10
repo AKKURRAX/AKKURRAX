@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif">
+
+
 # AKKURRA 📒
 
 
@@ -42,6 +45,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AKKURRAX&show_icons=true&theme=tokyonight&layout=compact">    
 
 
- 
+ <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif">
 
 
