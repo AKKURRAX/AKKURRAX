@@ -7,6 +7,12 @@
 
 **hi my name is AKKURRA I am the creator of Yukan bot and <br> passionate about computer science and programming**
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Technologie 🧬
 
 <div align="center">  
