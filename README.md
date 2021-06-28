@@ -4,7 +4,8 @@
 # AKKURRAX 🎮
 
 
-Hey my name is AKKURRA, I'm a young french developper I code mainly in **JS**, **PHP** and **HTML/CSS**. On this github page I share with you the code of all my recent or old projects to show you how I design them.
+
+**hi my name is AKKURRA I am the creator of Yukan bot and <br> passionate about computer science and programming**
 
 ## Technologie 🧬
 
