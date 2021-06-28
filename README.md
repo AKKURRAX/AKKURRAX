@@ -31,7 +31,6 @@
  <div align="center">
 <a href ="https://github.com/AKKURRAX"><img height="220em" src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&count_private=true&show_icons=true&theme=blueberry"/></a>
  
-<a href ="https://github.com/AKKURRAX"><img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKKURRAX&theme=blueberry&hide=batchfile"></a>
 </div>
  <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif">
 
