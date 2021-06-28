@@ -23,7 +23,9 @@ Hey my name is AKKURRA, I'm a young french developper I code mainly in **JS**, *
 
 
 ## Stats 📈   
-<img src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&show_icons=true&theme=radical">
+<a href ="https://github.com/AKKURRAX"><img height="220em" src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&count_private=true&show_icons=true&theme=blueberry"/></a>
+ 
+<a href ="https://github.com/AKKURRAX"><img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKKURRAX&theme=blueberry&hide=batchfile"></a>
 
  <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif">
 
