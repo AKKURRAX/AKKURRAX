@@ -33,6 +33,8 @@
 <a href ="https://github.com/AKKURRAX"><img height="220em" src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&count_private=true&show_icons=true&theme=blueberry"/></a>
  
  ## Spotify 🎧
+ <br>
+ <br>
  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1171308890)
  
