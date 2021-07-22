@@ -1,5 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="700px">
+<br>
+<br>
 
 
 # AKKURRA 🎮
