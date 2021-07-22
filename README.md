@@ -32,6 +32,10 @@
 ## Stats 📈   
 <a href ="https://github.com/AKKURRAX"><img height="220em" src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&count_private=true&show_icons=true&theme=blueberry"/></a>
  
+ ## Spotify 🎧
+ 
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1171308890)
+ 
 
  <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif">
 
