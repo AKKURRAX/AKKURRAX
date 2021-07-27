@@ -8,7 +8,7 @@
 
 
 
-**hi my name is AKKURRA I am the creator of FSI bot & Irotuka bot and <br> passionate about computer science and programming**
+<h2 align="center">**hi my name is AKKURRA I am the creator of FSI bot & Irotuka bot and <br> passionate about computer science and programming**</h2>
 
 <br>
 <br>
@@ -32,10 +32,10 @@
 </td><td valign="top" width="33%"> 
 
 
-## Stats 📈   
+## Discord status 📓  
  <br>
  
- <a href="#"><img src="https://discord.c99.nl/widget/theme-4/700766647111123114.png" alt="discord"/></a>
+ <a href="#" align="center"><img src="https://discord.c99.nl/widget/theme-4/700766647111123114.png" alt="discord"/></a>
  
  ## Spotify 🎧
  <br>
