@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, Hey i'm AKKURRAX</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hey i'm AKKURRAX</h1>
 
 
 
