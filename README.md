@@ -1,5 +1,5 @@
 
-<img align="center" src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="800px">
+<img align="center" src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="1000px">
 <br>
 
 
