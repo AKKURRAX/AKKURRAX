@@ -4,7 +4,7 @@
 
 
 
-# AKKURRA 🎮
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hey i'm AKKURRAX</h1>
 
 
 
@@ -35,7 +35,7 @@
 ## Stats 📈   
  <br>
  
-   
+    <img alt="Gonz's stats" src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
  
  ## Spotify 🎧
  <br>
