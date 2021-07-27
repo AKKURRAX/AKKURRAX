@@ -44,6 +44,6 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1171308890)
  
 
- <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="700px">
+ <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="1000px">
 
 
