@@ -14,7 +14,7 @@
 <br>
 
 
-## Technologie 🧬
+# Technologie 🧬
 <br>
 
 <div align="center">  
@@ -32,12 +32,12 @@
 </td><td valign="top" width="33%"> 
 
 
-## Discord status 📓  
+# Discord status 📓  
  <br>
  
  <a href="#" align="center"><img src="https://discord.c99.nl/widget/theme-4/700766647111123114.png" alt="discord"/></a>
  
- ## Spotify 🎧
+ # Spotify 🎧
  <br>
  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1171308890)
