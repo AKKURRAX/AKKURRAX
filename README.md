@@ -35,7 +35,7 @@
 ## Stats 📈   
  <br>
  
-    <img alt="Gonz's stats" src="https://github-readme-stats.vercel.app/api?username=AKKURRAX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <img alt="Discord" src="https://discord.c99.nl/widget/theme-4/700766647111123114.png"/>
  
  ## Spotify 🎧
  <br>
