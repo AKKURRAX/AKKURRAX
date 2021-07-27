@@ -35,7 +35,7 @@
 ## Stats 📈   
  <br>
  
-   <img alt="Gonz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AKKURRAX&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+   
  
  ## Spotify 🎧
  <br>
