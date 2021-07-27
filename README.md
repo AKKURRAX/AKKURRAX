@@ -8,7 +8,7 @@
 
 
 
-**hi my name is AKKURRA I am the creator of Yukan bot and <br> passionate about computer science and programming**
+**hi my name is AKKURRA I am the creator of FSI bot & Irotuka bot and <br> passionate about computer science and programming**
 
 <br>
 <br>
