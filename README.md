@@ -40,7 +40,7 @@
  # Spotify 🎧
  <br>
  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1171308890)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=KIZ)
  
 <br>
  <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="1000px">
