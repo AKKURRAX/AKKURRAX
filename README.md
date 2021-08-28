@@ -37,10 +37,6 @@
  
  <a href="#" align="center"><img src="https://discord.c99.nl/widget/theme-4/700766647111123114.png" alt="discord"/></a>
  
- # Spotify 🎧
- <br>
- 
-![Alt text](https://camo.githubusercontent.com/f53f0d8ca2355b28b7a426291c9a5c9d0a709f7f299e1e3b4b062455239392bf/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d313137313330383)
  
 <br>
  <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="1000px">
