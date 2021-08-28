@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center">hi my name is AKKURRA I am the creator of FSI bot & Irotuka bot and <br> passionate about computer science and programming</h3>
+<h3 align="center">hi my name is AKKURRA I am the creator of FSI bot & Nao ai and <br> passionate about computer science and programming</h3>
 
 <br>
 <br>
