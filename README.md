@@ -38,7 +38,9 @@
  <a href="#" align="center"><img src="https://discord.c99.nl/widget/theme-4/700766647111123114.png" alt="discord"/></a>
  
  
+  # Stats 〽️
+ 
+  <a href="#" align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=AKKURRA&theme=tokyonight&hide_border=true" alt="stats"/></a>
+ 
 <br>
  <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="1000px">
-
-
