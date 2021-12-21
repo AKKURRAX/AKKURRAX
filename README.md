@@ -16,7 +16,7 @@
 
 # Technologie 🧬
 <br>
-
+soon...
 <div align="center">  
 
 
