@@ -1,7 +1,6 @@
 
 <img align="center" src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="1000px">
 <br>
-
 ```js
 <This is an introduction>
  NOT developing The Bro Bots, two Discord bots
