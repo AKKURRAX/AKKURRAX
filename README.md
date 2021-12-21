@@ -2,8 +2,6 @@
 <img align="center" src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="1000px">
 <br>
 
-<img src="https://media.discordapp.net/attachments/903979844096913461/922932550295519322/62459597.png" border-radius="1000px">
-
 ```js
 <This is an introduction>
  NOT developing The Bro Bots, two Discord bots
