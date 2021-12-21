@@ -4,8 +4,10 @@
 
 ```js
 <This is an introduction>
-Likes to automate everything that moves, learns sight☣️
+Likes to automate everything that moves, 
+learns sight ☣️
 ```
+
 <br>
 
 # Technologie 🧬
