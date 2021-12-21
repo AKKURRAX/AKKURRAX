@@ -11,8 +11,6 @@
 <h3 align="center">hi my name is AKKURRA I am the developper of vulcan bot and <br> passionate about computer science and programming</h3>
 
 <br>
-<br>
-
 
 # Technologie 🧬
 <br>
