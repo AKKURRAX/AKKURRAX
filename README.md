@@ -4,11 +4,11 @@
 
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hey i'm AKKURRAX</h1>
-
-
-
-<h3 align="center">hi my name is AKKURRA I am the developper of vulcan bot and <br> passionate about computer science and programming</h3>
+```js
+<This is an introduction>
+ NOT developing The Bro Bots, two Discord bots
+ Currently learning react ☣️
+```
 
 <br>
 
@@ -35,7 +35,7 @@
  <a href="#" align="center"><img src="https://discord.c99.nl/widget/theme-4/700766647111123114.png" alt="discord"/></a>
  
  <details align="left">
-  <summary>:star: # GitHub Stats</summary>
+  <summary>:star: GitHub Stats</summary>
   <br/>
    <img align="left" alt="CodeWithSwastik's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=AKKURRA&theme=tokyonight&hide_border=true" />
 </details> 
