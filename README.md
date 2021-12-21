@@ -4,8 +4,7 @@
 
 ```js
 <This is an introduction>
- NOT developing The Bro Bots, two Discord bots
- Currently learning react ☣️
+Likes to automate everything that moves, learns sight☣️
 ```
 <br>
 
