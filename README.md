@@ -4,8 +4,8 @@
 
 ```js
 <This is an introduction>
-I Like to automate everything that moves, 
-learn Vuejs ☣️
+A lot of people laugh at me and my level in code,
+but I know what I am worth ☣️
 ```
 
 <br>
