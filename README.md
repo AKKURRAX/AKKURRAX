@@ -5,7 +5,7 @@
 ```js
 <This is an introduction>
 Like to automate everything that moves, 
-learns Vuejs ☣️
+learn Vuejs ☣️
 ```
 
 <br>
