@@ -4,7 +4,7 @@
 
 ```js
 <This is an introduction>
-Likes to automate everything that moves, 
+Like to automate everything that moves, 
 learns Vuejs ☣️
 ```
 
