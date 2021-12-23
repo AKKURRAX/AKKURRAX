@@ -4,8 +4,8 @@
 
 ```js
 <This is an introduction>
-A lot of people laugh at me and my level in code,
-but I know what I am worth ☣️
+A lot of people laugh at me and my coding skills,
+but i know what i'm worth ☣️
 ```
 
 <br>
