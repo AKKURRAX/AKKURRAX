@@ -10,7 +10,7 @@ but i know what i'm worth ☣️
 
 <br>
 
-# Technologie 🧬
+# Technologies 🧬
 <br>
 <a href="https://discord.js.org"><img align="left" alt="discord.js" width="32x" src="https://github.com/elbkr/elbkr/raw/main/images/icons/discordjs.png" /></a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img align="left" alt="js" width="26px" src="https://github.com/elbkr/elbkr/raw/main/images/icons/js.png" /></a>
