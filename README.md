@@ -36,6 +36,7 @@ but i know what i'm worth ☣️
  
  # Spotify 🎧
  <br>
+ 
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=qxrsy6f3g4t50z0cw5dm8q2tq)
  
  
