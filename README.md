@@ -35,7 +35,6 @@ but i know what i'm worth ☣️
  <details align="left">
   <summary>:star: GitHub Stats</summary>
   <br/>
-   <img align="left" alt="CodeWithSwastik's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=AKKURRA&theme=tokyonight&hide_border=true" />
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=qxrsy6f3g4t50z0cw5dm8q2tq)
 </details> 
  
