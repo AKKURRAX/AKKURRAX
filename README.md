@@ -31,10 +31,10 @@ but i know what i'm worth ☣️
  <br>
  
  <a href="#" align="center"><img src="https://discord.c99.nl/widget/theme-4/700766647111123114.png" alt="discord"/></a>
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tne2p391pldzo5pfivtii2ubx)
  
  <details align="left">
   <summary>:star: GitHub Stats</summary>
- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tne2p391pldzo5pfivtii2ubx)
 </details> 
  
  
