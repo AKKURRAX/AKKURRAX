@@ -4,8 +4,8 @@
 
 ```js
 <This is an introduction>
-A lot of people laugh at me and my coding skills,
-but i know what i'm worth ☣️
+Hi, I'm AKKURRA and I am a student and passionate about computer science, development, tech, AI
+and I post on this github all my projects that have not fallen through
 ```
 
 <br>
