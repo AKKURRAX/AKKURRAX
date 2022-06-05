@@ -1,5 +1,5 @@
 
-<img align="center" src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="1000px">
+<img align="center" src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="2000px">
 <br>
 
 ```js
@@ -42,4 +42,4 @@ and I post on this github all my projects that have not fallen through
  
  
 <br>
- <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="1000px">
+ <img src="https://raw.githubusercontent.com/yayouu/yayouu/main/1.gif" width="2000px">
